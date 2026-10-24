@@ -3,8 +3,8 @@
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <info>
     <title>ISO 690 (numérico, español, corchetes)</title>
-    <id>http://www.zotero.org/styles/iso-690</id>
-    <link href="http://www.zotero.org/styles/iso-690" rel="self"/>
+    <id>https://github.com/HaroldHuanca/iso690-Tesis</id>
+    <link href="https://github.com/HaroldHuanca/iso690-Tesis" rel="self"/>
     <link href="https://forums.zotero.org/discussion/20342" rel="documentation"/>
     <author>
       <name>Laure Mellifluo</name>
@@ -496,7 +496,6 @@
       <group display="right-inline">
         <text macro="archive"/>
       </group>
-      <group display="right-inline"/>
       <group display="right-inline">
         <text macro="note"/>
       </group>
