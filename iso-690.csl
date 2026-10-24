@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" default-locale="es-ES">
   <info>
-    <title>ISO 690 (numérico, español, corchetes, UC)</title>
-    <id>https://github.com/HaroldHuanca/iso690-Tesis-UC</id>
-    <link href="https://github.com/HaroldHuanca/iso690-Tesis-UC" rel="self"/>
+    <title>ISO 690 (numérico, español, corchetes, UCHarold)</title>
+    <id>https://github.com/HaroldHuanca/iso690-Tesis-UC-v3</id>
+    <link href="https://github.com/HaroldHuanca/iso690-Tesis-UC-v2" rel="self"/>
     <link href="https://forums.zotero.org/discussion/20342" rel="documentation"/>
     <author>
       <name>Laure Mellifluo</name>
@@ -15,7 +15,7 @@
     <category citation-format="numeric"/>
     <category field="engineering"/>
     <summary>Estilo basado en ISO 690:2010 adaptado al Manual de la Universidad Continental para textos de ingeniería.</summary>
-    <updated>2026-10-24T21:00:00+00:00</updated>
+    <updated>2026-10-24T21:30:00+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="es-ES">
@@ -200,7 +200,7 @@
   <macro name="accessed">
     <choose>
       <if variable="URL accessed" match="all">
-        <group prefix=" [consulta: " suffix="]">
+        <group prefix=" [fecha de consulta: " suffix="]">
           <date variable="accessed">
             <date-part name="day" suffix=" "/>
             <date-part name="month" suffix=" "/>
